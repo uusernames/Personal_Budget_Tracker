@@ -1,7 +1,7 @@
 # Personal_Budget_Tracker
 Using Python to automate managing and summarizing a personal budget. Using **panadas** and **SQLite3** for local database storage.
 
-## What it does
+# What it does
 > Reads transactions from CSV file.
 > Automatically creates needed files
 > categlorizes transactions into 3 groups: expenses , mandatory expenses, and salary.
